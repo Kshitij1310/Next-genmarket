@@ -1,0 +1,1682 @@
+[
+  {
+    "batch_id": "BCH-WH-N-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-N-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 188,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-S-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 98,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-E-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 160,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-W-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 132,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-C-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 216,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  },
+  {
+    "batch_id": "BCH-WH-NE-GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "qty": 117,
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    },
+    "created_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "source": "seed",
+    "status": "active"
+  }
+]

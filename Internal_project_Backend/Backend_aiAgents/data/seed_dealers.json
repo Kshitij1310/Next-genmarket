@@ -1,0 +1,14 @@
+[
+  {"warehouse_code": "WH-N", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer for all warehouses (dummy)"},
+  {"warehouse_code": "WH-N", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer (dummy)"},
+  {"warehouse_code": "WH-S", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer"},
+  {"warehouse_code": "WH-S", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer"},
+  {"warehouse_code": "WH-E", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer"},
+  {"warehouse_code": "WH-E", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer"},
+  {"warehouse_code": "WH-W", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer"},
+  {"warehouse_code": "WH-W", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer"},
+  {"warehouse_code": "WH-C", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer"},
+  {"warehouse_code": "WH-C", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer"},
+  {"warehouse_code": "WH-NE", "dealer_priority": 1, "name": "Dealer 1", "email": "calljaibittu@gmail.com", "phone": null, "notes": "Primary dealer"},
+  {"warehouse_code": "WH-NE", "dealer_priority": 2, "name": "Dealer 2", "email": "jaydhangar2001@gmail.com", "phone": null, "notes": "Fallback dealer"}
+]

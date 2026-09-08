@@ -1,0 +1,6122 @@
+[
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-N",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-N",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-N",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-N",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-N",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-N",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-N",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-N",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-N",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-N",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-N",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-N",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-N",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-N",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-N",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-N",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-N",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 69,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-N",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 69,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-N",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 69,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-N",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 69,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-N",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-N",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-N",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-N",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-N",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 87,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-N",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 87,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-N",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 87,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-N",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 87,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-N",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 101,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-N",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 101,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-N",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 101,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-N",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 101,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-N",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-N",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-N",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-N",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-N",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 35,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-N",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 35,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-N",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 35,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-N",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 35,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-N",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 65,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-N",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 65,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-N",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 65,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-N",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 65,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-N",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-N",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-N",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-N",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-N",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-N",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-N",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-N",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-N",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-N",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-N",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-N",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-N",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-N",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-N",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-N",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-N",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-N",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-N",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-N",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 188,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-N",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-N",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-N",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-N",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-N",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-N",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-N",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-N",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-N",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-N",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-N",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-N",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-N",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 28,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-N",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 28,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-N",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 28,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-N",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 28,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-S",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 19,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-S",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 19,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-S",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 19,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-S",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 19,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-S",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 13,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-S",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 13,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-S",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 13,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-S",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 13,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-S",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-S",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-S",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-S",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-S",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-S",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-S",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-S",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-S",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-S",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-S",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-S",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-S",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-S",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-S",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-S",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-S",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-S",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-S",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-S",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-S",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 53,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-S",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 53,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-S",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 53,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-S",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 53,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-S",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-S",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-S",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-S",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-S",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-S",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-S",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-S",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-S",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-S",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-S",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-S",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-S",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-S",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-S",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-S",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-S",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-S",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-S",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-S",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-S",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-S",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-S",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-S",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-S",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-S",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-S",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-S",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-S",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-S",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-S",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-S",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 98,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-S",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-S",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-S",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-S",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-S",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-S",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-S",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-S",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-S",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-S",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-S",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-S",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-S",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 15,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-S",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 15,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-S",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 15,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-S",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 15,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-E",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 31,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-E",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 31,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-E",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 31,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-E",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 31,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-E",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-E",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-E",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-E",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-E",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-E",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-E",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-E",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-E",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-E",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-E",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-E",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-E",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 59,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-E",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 59,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-E",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 59,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-E",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 59,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-E",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-E",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-E",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-E",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 36,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-E",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 74,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-E",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 74,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-E",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 74,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-E",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 74,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-E",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 86,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-E",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 86,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-E",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 86,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-E",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 86,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-E",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-E",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-E",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-E",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 33,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-E",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-E",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-E",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-E",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-E",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 56,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-E",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 56,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-E",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 56,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-E",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 56,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-E",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-E",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-E",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-E",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-E",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-E",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-E",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-E",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-E",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-E",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-E",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-E",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-E",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-E",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-E",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-E",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-E",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-E",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-E",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-E",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 160,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-E",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-E",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-E",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-E",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-E",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-E",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-E",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-E",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-E",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-E",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-E",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-E",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 47,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-E",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-E",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-E",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-E",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-W",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-W",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-W",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-W",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-W",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-W",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-W",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-W",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-W",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-W",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-W",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-W",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-W",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-W",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-W",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-W",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-W",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-W",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-W",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-W",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-W",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-W",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-W",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-W",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 30,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-W",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 61,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-W",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 61,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-W",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 61,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-W",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 61,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-W",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 71,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-W",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 71,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-W",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 71,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-W",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 71,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-W",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 27,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-W",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 27,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-W",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 27,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-W",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 27,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-W",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-W",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-W",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-W",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 25,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-W",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-W",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-W",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-W",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 46,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-W",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-W",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-W",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-W",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-W",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-W",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-W",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-W",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-W",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-W",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-W",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-W",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-W",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-W",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-W",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-W",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-W",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-W",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-W",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-W",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 132,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-W",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-W",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-W",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-W",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-W",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-W",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-W",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-W",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-W",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-W",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-W",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-W",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 39,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-W",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 20,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-W",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 20,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-W",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 20,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-W",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 20,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-C",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-C",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-C",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-C",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 42,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-C",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-C",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-C",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-C",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 29,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-C",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-C",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-C",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-C",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-C",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-C",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-C",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-C",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-C",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 80,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-C",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 80,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-C",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 80,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-C",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 80,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-C",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-C",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-C",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-C",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 49,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-C",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 100,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-C",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 100,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-C",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 100,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-C",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 100,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-C",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 116,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-C",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 116,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-C",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 116,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-C",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 116,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-C",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 44,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-C",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 44,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-C",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 44,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-C",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 44,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-C",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-C",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-C",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-C",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-C",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 75,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-C",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 75,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-C",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 75,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-C",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 75,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-C",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-C",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-C",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-C",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 38,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-C",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-C",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-C",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-C",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-C",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-C",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-C",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-C",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-C",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-C",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-C",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-C",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-C",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-C",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-C",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-C",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 216,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-C",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-C",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-C",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-C",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-C",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-C",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-C",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-C",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-C",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-C",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-C",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-C",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-C",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 32,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-C",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 32,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-C",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 32,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-C",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 32,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-128GB",
+    "warehouse_code": "WH-NE",
+    "product_name": "iPhone 16e 128 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "warehouse_code": "WH-NE",
+    "product_name": "iPhone 16e 256 GB",
+    "brand": "Apple",
+    "category": "phones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "warehouse_code": "WH-NE",
+    "product_name": "Redmi Note 13 128GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "warehouse_code": "WH-NE",
+    "product_name": "Redmi Note 13 256GB",
+    "brand": "Redmi",
+    "category": "phones",
+    "qty": 23,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "warehouse_code": "WH-NE",
+    "product_name": "MacBook Air M1",
+    "brand": "Apple",
+    "category": "laptops",
+    "qty": 16,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "warehouse_code": "WH-NE",
+    "product_name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "qty": 16,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "warehouse_code": "WH-NE",
+    "product_name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "qty": 16,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "warehouse_code": "WH-NE",
+    "product_name": "Lenovo IdeaPad 15",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "qty": 16,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "warehouse_code": "WH-NE",
+    "product_name": "Basmati Rice 5kg",
+    "brand": "India Gate",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "warehouse_code": "WH-NE",
+    "product_name": "Sunflower Oil 1L",
+    "brand": "Fortune",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "warehouse_code": "WH-NE",
+    "product_name": "Moong Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "warehouse_code": "WH-NE",
+    "product_name": "Snacks Mix 500g",
+    "brand": "Haldiram",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-07-11T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "warehouse_code": "WH-NE",
+    "product_name": "Men Cotton T-Shirt (M)",
+    "brand": "Roadster",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "warehouse_code": "WH-NE",
+    "product_name": "Men Denim Jeans (M)",
+    "brand": "Levis",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "warehouse_code": "WH-NE",
+    "product_name": "Sports Shoes Size 42",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "warehouse_code": "WH-NE",
+    "product_name": "Men Winter Jacket (M)",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "warehouse_code": "WH-NE",
+    "product_name": "Boult Audio AirBass Wireless Earbuds",
+    "brand": "Boult",
+    "category": "earbuds",
+    "qty": 43,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "warehouse_code": "WH-NE",
+    "product_name": "Noise Buds VS102 Wireless Earbuds",
+    "brand": "Noise",
+    "category": "earbuds",
+    "qty": 43,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "warehouse_code": "WH-NE",
+    "product_name": "OnePlus Nord Buds Wireless Earbuds",
+    "brand": "OnePlus",
+    "category": "earbuds",
+    "qty": 43,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "warehouse_code": "WH-NE",
+    "product_name": "boAt Airdopes 141 Wireless Earbuds",
+    "brand": "boAt",
+    "category": "earbuds",
+    "qty": 43,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "warehouse_code": "WH-NE",
+    "product_name": "Sony WH-CH520 Wireless Headphone",
+    "brand": "Sony",
+    "category": "headphones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "warehouse_code": "WH-NE",
+    "product_name": "JBL Tune 760NC Over-Ear Headphones",
+    "brand": "JBL",
+    "category": "headphones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "warehouse_code": "WH-NE",
+    "product_name": "Sennheiser HD 350BT Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "warehouse_code": "WH-NE",
+    "product_name": "Bose QuietComfort 45 Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "qty": 26,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "warehouse_code": "WH-NE",
+    "product_name": "Anker 65W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "chargers",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "warehouse_code": "WH-NE",
+    "product_name": "Samsung 45W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "chargers",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "warehouse_code": "WH-NE",
+    "product_name": "Belkin 30W USB-C Fast Charger",
+    "brand": "Belkin",
+    "category": "chargers",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "warehouse_code": "WH-NE",
+    "product_name": "Spigen 70W GaN Fast Charger",
+    "brand": "Spigen",
+    "category": "chargers",
+    "qty": 54,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "warehouse_code": "WH-NE",
+    "product_name": "Spigen Rugged Armor Phone Case",
+    "brand": "Spigen",
+    "category": "cases",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "warehouse_code": "WH-NE",
+    "product_name": "OtterBox Defender Protective Case",
+    "brand": "OtterBox",
+    "category": "cases",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "warehouse_code": "WH-NE",
+    "product_name": "Ringke Fusion X Phone Case",
+    "brand": "Ringke",
+    "category": "cases",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "warehouse_code": "WH-NE",
+    "product_name": "Caseology Nano Pop Phone Case",
+    "brand": "Caseology",
+    "category": "cases",
+    "qty": 63,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "warehouse_code": "WH-NE",
+    "product_name": "Samsonite XENON Laptop Backpack",
+    "brand": "Samsonite",
+    "category": "backpacks",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "warehouse_code": "WH-NE",
+    "product_name": "Targus CitySmart Laptop Backpack",
+    "brand": "Targus",
+    "category": "backpacks",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "warehouse_code": "WH-NE",
+    "product_name": "Lenovo Legion Laptop Backpack",
+    "brand": "Lenovo",
+    "category": "backpacks",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "warehouse_code": "WH-NE",
+    "product_name": "HP Odyssey Laptop Backpack",
+    "brand": "HP",
+    "category": "backpacks",
+    "qty": 24,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "warehouse_code": "WH-NE",
+    "product_name": "Anker PowerExpand USB-C Hub",
+    "brand": "Anker",
+    "category": "usb_hubs",
+    "qty": 22,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "warehouse_code": "WH-NE",
+    "product_name": "Belkin USB-C Multimedia Hub",
+    "brand": "Belkin",
+    "category": "usb_hubs",
+    "qty": 22,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "warehouse_code": "WH-NE",
+    "product_name": "Satechi Aluminum USB-C Hub",
+    "brand": "Satechi",
+    "category": "usb_hubs",
+    "qty": 22,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "warehouse_code": "WH-NE",
+    "product_name": "HyperDrive USB-C Hub",
+    "brand": "HyperDrive",
+    "category": "usb_hubs",
+    "qty": 22,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "warehouse_code": "WH-NE",
+    "product_name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "wireless_mice",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "warehouse_code": "WH-NE",
+    "product_name": "Razer Basilisk X Wireless Mouse",
+    "brand": "Razer",
+    "category": "wireless_mice",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "warehouse_code": "WH-NE",
+    "product_name": "HP Z3700 Wireless Mouse",
+    "brand": "HP",
+    "category": "wireless_mice",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "warehouse_code": "WH-NE",
+    "product_name": "Dell WM126 Wireless Mouse",
+    "brand": "Dell",
+    "category": "wireless_mice",
+    "qty": 41,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "warehouse_code": "WH-NE",
+    "product_name": "Cooler Master NotePal X3",
+    "brand": "Cooler Master",
+    "category": "cooling_pads",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "warehouse_code": "WH-NE",
+    "product_name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "brand": "Thermaltake",
+    "category": "cooling_pads",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "warehouse_code": "WH-NE",
+    "product_name": "KLIM Wind Laptop Cooling Pad",
+    "brand": "KLIM",
+    "category": "cooling_pads",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "warehouse_code": "WH-NE",
+    "product_name": "Havit HV-F2056 Cooling Pad",
+    "brand": "Havit",
+    "category": "cooling_pads",
+    "qty": 21,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "warehouse_code": "WH-NE",
+    "product_name": "California Almonds Premium 500g",
+    "brand": "California Almonds",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "warehouse_code": "WH-NE",
+    "product_name": "Happilo Natural Almonds 500g",
+    "brand": "Happilo",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "warehouse_code": "WH-NE",
+    "product_name": "24 Mantra Organic Almonds 500g",
+    "brand": "24 Mantra",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "warehouse_code": "WH-NE",
+    "product_name": "Nutraj California Almonds 500g",
+    "brand": "Nutraj",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "warehouse_code": "WH-NE",
+    "product_name": "Coca-Cola Soft Drink 1L",
+    "brand": "Coca-Cola",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "warehouse_code": "WH-NE",
+    "product_name": "Pepsi Soft Drink 1L",
+    "brand": "Pepsi",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "warehouse_code": "WH-NE",
+    "product_name": "Sprite Soft Drink 1L",
+    "brand": "Sprite",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "warehouse_code": "WH-NE",
+    "product_name": "Fanta Soft Drink 1L",
+    "brand": "Fanta",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-11-08T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "warehouse_code": "WH-NE",
+    "product_name": "Pintola Natural Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "warehouse_code": "WH-NE",
+    "product_name": "MyFitness Peanut Butter 1kg",
+    "brand": "MyFitness",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "warehouse_code": "WH-NE",
+    "product_name": "Alpino Natural Peanut Butter 1kg",
+    "brand": "Alpino",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "warehouse_code": "WH-NE",
+    "product_name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "brand": "FunFoods",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "warehouse_code": "WH-NE",
+    "product_name": "Borges Extra Virgin Olive Oil 1L",
+    "brand": "Borges",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "warehouse_code": "WH-NE",
+    "product_name": "Figaro Olive Oil 1L",
+    "brand": "Figaro",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "warehouse_code": "WH-NE",
+    "product_name": "Del Monte Olive Oil 1L",
+    "brand": "Del Monte",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "warehouse_code": "WH-NE",
+    "product_name": "Colavita Extra Virgin Olive Oil 1L",
+    "brand": "Colavita",
+    "category": "grocery",
+    "qty": 117,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    },
+    "expiry_date": {
+      "$date": "2027-03-13T00:00:00Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "warehouse_code": "WH-NE",
+    "product_name": "Levi's Leather Belt",
+    "brand": "Levi's",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "warehouse_code": "WH-NE",
+    "product_name": "Tommy Hilfiger Leather Belt",
+    "brand": "Tommy Hilfiger",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "warehouse_code": "WH-NE",
+    "product_name": "Calvin Klein Leather Belt",
+    "brand": "Calvin Klein",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "warehouse_code": "WH-NE",
+    "product_name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "warehouse_code": "WH-NE",
+    "product_name": "Nike Air Zoom Running Shoes",
+    "brand": "Nike",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "warehouse_code": "WH-NE",
+    "product_name": "Adidas Ultraboost Sneakers",
+    "brand": "Adidas",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "warehouse_code": "WH-NE",
+    "product_name": "Puma Velocity Nitro Running Shoes",
+    "brand": "Puma",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "warehouse_code": "WH-NE",
+    "product_name": "New Balance Fresh Foam Sneakers",
+    "brand": "New Balance",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "warehouse_code": "WH-NE",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "brand": "Ray-Ban",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "warehouse_code": "WH-NE",
+    "product_name": "Gucci Square Sunglasses",
+    "brand": "Gucci",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "warehouse_code": "WH-NE",
+    "product_name": "Prada Sport Sunglasses",
+    "brand": "Prada",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "warehouse_code": "WH-NE",
+    "product_name": "Oakley Holbrook Sunglasses",
+    "brand": "Oakley",
+    "category": "fashion",
+    "qty": 34,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "warehouse_code": "WH-NE",
+    "product_name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "wearables",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "warehouse_code": "WH-NE",
+    "product_name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "wearables",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "warehouse_code": "WH-NE",
+    "product_name": "Garmin Venu 2 Smartwatch",
+    "brand": "Garmin",
+    "category": "wearables",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "warehouse_code": "WH-NE",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "brand": "Fossil",
+    "category": "wearables",
+    "qty": 18,
+    "reserved_qty": 0,
+    "updated_at": {
+      "$date": "2026-03-13T08:12:23.867413Z"
+    }
+  }
+]
