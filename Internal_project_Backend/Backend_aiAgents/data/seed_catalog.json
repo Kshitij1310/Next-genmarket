@@ -1,0 +1,1264 @@
+[
+  {
+    "sku": "IPHONE-14-128GB",
+    "name": "iPhone 16e 128 GB",
+    "description": "Built for Apple Intelligence, A18 chip, 48MP Fusion camera, 6.1-inch Super Retina XDR display.",
+    "category": "phones",
+    "brand": "Apple",
+    "price": 799.99,
+    "currency": "USD",
+    "image_url": "/images/iphone-14-128gb.png",
+    "attributes": {
+      "storage": "128GB",
+      "chip": "A18",
+      "camera": "48MP Fusion",
+      "color": "Black"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "IPHONE-14-256GB",
+    "name": "iPhone 16e 256 GB",
+    "description": "Built for Apple Intelligence, A18 chip, 48MP Fusion camera, 6.1-inch Super Retina XDR display.",
+    "category": "phones",
+    "brand": "Apple",
+    "price": 899.99,
+    "currency": "USD",
+    "image_url": "/images/iphone-14-256gb.png",
+    "attributes": {
+      "storage": "256GB",
+      "chip": "A18",
+      "camera": "48MP Fusion",
+      "color": "Black"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "REDMI-NOTE-13-128GB",
+    "name": "Redmi Note 13 128GB",
+    "description": "AMOLED display smartphone with 120Hz refresh rate and all-day battery.",
+    "category": "phones",
+    "brand": "Redmi",
+    "price": 249.99,
+    "currency": "USD",
+    "image_url": "/images/redmi-note-13-128gb.png",
+    "attributes": {
+      "storage": "128GB",
+      "display": "120Hz AMOLED",
+      "camera": "108MP"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "REDMI-NOTE13-256GB",
+    "name": "Redmi Note 13 256GB",
+    "description": "AMOLED display smartphone with 120Hz refresh rate and all-day battery.",
+    "category": "phones",
+    "brand": "Redmi",
+    "price": 299.99,
+    "currency": "USD",
+    "image_url": "/images/redmi-note-13-256gb.png",
+    "attributes": {
+      "storage": "256GB",
+      "display": "120Hz AMOLED",
+      "camera": "108MP"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "MACBOOK-AIR-M1",
+    "name": "MacBook Air M1",
+    "description": "13.3-inch Retina laptop with Apple M1 chip and all-day battery life.",
+    "category": "laptops",
+    "brand": "Apple",
+    "price": 999.99,
+    "currency": "USD",
+    "image_url": "/images/macbook-air-m1.png",
+    "attributes": {
+      "ram": "8GB",
+      "chip": "M1",
+      "display": "13.3-inch Retina"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "DELL-XPS-15",
+    "name": "Dell XPS 15",
+    "description": "15.6-inch performance laptop with Intel Core i7 and premium build.",
+    "category": "laptops",
+    "brand": "Dell",
+    "price": 1299.99,
+    "currency": "USD",
+    "image_url": "/images/dell-xps-15.png",
+    "attributes": {
+      "ram": "16GB",
+      "processor": "Intel i7",
+      "display": "15.6-inch"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HP-PAVILION-15",
+    "name": "HP Pavilion 15",
+    "description": "Everyday laptop with Ryzen 5, SSD storage, and balanced performance.",
+    "category": "laptops",
+    "brand": "HP",
+    "price": 649.99,
+    "currency": "USD",
+    "image_url": "/images/hp-pavilion-15.png",
+    "attributes": {
+      "ram": "8GB",
+      "processor": "Ryzen 5",
+      "display": "15.6-inch"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "LENOVO-IDEAPAD-15",
+    "name": "Lenovo IdeaPad 15",
+    "description": "Reliable 15.6-inch laptop for daily productivity and office workloads.",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "price": 549.99,
+    "currency": "USD",
+    "image_url": "/images/lenovo-ideapad-15.png",
+    "attributes": {
+      "ram": "8GB",
+      "processor": "Intel i5",
+      "display": "15.6-inch"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "name": "Basmati Rice 5kg",
+    "description": "Premium long-grain aged basmati rice, aromatic and ideal for daily meals.",
+    "category": "grocery",
+    "brand": "India Gate",
+    "price": 12.99,
+    "currency": "USD",
+    "image_url": "/images/rice-basmati-5kg.png",
+    "attributes": {
+      "weight": "5kg",
+      "expiry_date": "2026-09-09"
+    },
+    "expiry_date": "2026-09-09",
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "name": "Sunflower Oil 1L",
+    "description": "Refined sunflower cooking oil, light and heart-friendly.",
+    "category": "grocery",
+    "brand": "Fortune",
+    "price": 8.99,
+    "currency": "USD",
+    "image_url": "/images/sunflower-oil-1l.png",
+    "attributes": {
+      "volume": "1L",
+      "expiry_date": "2027-03-13"
+    },
+    "expiry_date": "2027-03-13",
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "name": "Moong Dal 1kg",
+    "description": "Protein-rich split green gram dal, cleaned and sorted.",
+    "category": "grocery",
+    "brand": "Tata Sampann",
+    "price": 4.99,
+    "currency": "USD",
+    "image_url": "/images/moong-dal-1kg.png",
+    "attributes": {
+      "weight": "1kg",
+      "expiry_date": "2026-09-09"
+    },
+    "expiry_date": "2026-09-09",
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "name": "Snacks Mix 500g",
+    "description": "Assorted namkeen and crunchy tea-time snacks.",
+    "category": "grocery",
+    "brand": "Haldiram",
+    "price": 6.99,
+    "currency": "USD",
+    "image_url": "/images/snacks-mix-500g.png",
+    "attributes": {
+      "weight": "500g",
+      "expiry_date": "2026-07-11"
+    },
+    "expiry_date": "2026-07-11",
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "name": "Men Cotton T-Shirt (M)",
+    "description": "Regular fit breathable cotton t-shirt for men.",
+    "category": "fashion",
+    "brand": "Roadster",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "/images/tshirt-cotton-m.png",
+    "attributes": {
+      "size": "M",
+      "material": "Cotton"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-JEANS-M-DENIM",
+    "name": "Men Denim Jeans (M)",
+    "description": "Slim fit stretch denim jeans for men.",
+    "category": "fashion",
+    "brand": "Levis",
+    "price": 89.99,
+    "currency": "USD",
+    "image_url": "/images/jeans-denim-m.png",
+    "attributes": {
+      "size": "M",
+      "material": "Denim"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "name": "Sports Shoes Size 42",
+    "description": "Lightweight running and training shoes with cushioned sole.",
+    "category": "fashion",
+    "brand": "Nike",
+    "price": 119.99,
+    "currency": "USD",
+    "image_url": "/images/sports-shoes-42.png",
+    "attributes": {
+      "size": "42",
+      "type": "Sports"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-JACKET-M-WINTER",
+    "name": "Men Winter Jacket (M)",
+    "description": "Insulated winter jacket with warm inner lining.",
+    "category": "fashion",
+    "brand": "Tommy Hilfiger",
+    "price": 149.99,
+    "currency": "USD",
+    "image_url": "/images/winter-jacket-m.png",
+    "attributes": {
+      "size": "M",
+      "season": "Winter"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "name": "Boult Audio AirBass Wireless Earbuds",
+    "description": "Boult Audio AirBass Wireless Earbuds for daily usage with reliable quality and performance.",
+    "category": "earbuds",
+    "brand": "Boult",
+    "price": 34.99,
+    "currency": "USD",
+    "image_url": "/images/earbuds-boult-airbass.png",
+    "attributes": {
+      "brand": "Boult"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "EARBUDS-NOISE-VS102",
+    "name": "Noise Buds VS102 Wireless Earbuds",
+    "description": "Noise Buds VS102 Wireless Earbuds for daily usage with reliable quality and performance.",
+    "category": "earbuds",
+    "brand": "Noise",
+    "price": 29.99,
+    "currency": "USD",
+    "image_url": "/images/earbuds-noise-vs102.png",
+    "attributes": {
+      "brand": "Noise"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "name": "OnePlus Nord Buds Wireless Earbuds",
+    "description": "OnePlus Nord Buds Wireless Earbuds for daily usage with reliable quality and performance.",
+    "category": "earbuds",
+    "brand": "OnePlus",
+    "price": 49.99,
+    "currency": "USD",
+    "image_url": "/images/earbuds-oneplus-nord.png",
+    "attributes": {
+      "brand": "OnePlus"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "name": "boAt Airdopes 141 Wireless Earbuds",
+    "description": "boAt Airdopes 141 Wireless Earbuds for daily usage with reliable quality and performance.",
+    "category": "earbuds",
+    "brand": "boAt",
+    "price": 27.99,
+    "currency": "USD",
+    "image_url": "/images/earbuds-boat-airdopes-141.png",
+    "attributes": {
+      "brand": "boAt"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "name": "Sony WH-CH520 Wireless Headphone",
+    "description": "Sony WH-CH520 Wireless Headphone for daily usage with reliable quality and performance.",
+    "category": "headphones",
+    "brand": "Sony",
+    "price": 69.99,
+    "currency": "USD",
+    "image_url": "/images/headphones-sony-whch520.png",
+    "attributes": {
+      "brand": "Sony"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "name": "JBL Tune 760NC Over-Ear Headphones",
+    "description": "JBL Tune 760NC Over-Ear Headphones for daily usage with reliable quality and performance.",
+    "category": "headphones",
+    "brand": "JBL",
+    "price": 89.99,
+    "currency": "USD",
+    "image_url": "/images/headphones-jbl-tune760nc.png",
+    "attributes": {
+      "brand": "JBL"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "name": "Sennheiser HD 350BT Wireless Headphones",
+    "description": "Sennheiser HD 350BT Wireless Headphones for daily usage with reliable quality and performance.",
+    "category": "headphones",
+    "brand": "Sennheiser",
+    "price": 99.99,
+    "currency": "USD",
+    "image_url": "/images/headphones-sennheiser-hd350bt.png",
+    "attributes": {
+      "brand": "Sennheiser"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HEADPHONES-BOSE-QC45",
+    "name": "Bose QuietComfort 45 Headphones",
+    "description": "Bose QuietComfort 45 Headphones for daily usage with reliable quality and performance.",
+    "category": "headphones",
+    "brand": "Bose",
+    "price": 279.99,
+    "currency": "USD",
+    "image_url": "/images/headphones-bose-qc45.png",
+    "attributes": {
+      "brand": "Bose"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "name": "Anker 65W GaN Fast Charger",
+    "description": "Anker 65W GaN Fast Charger for daily usage with reliable quality and performance.",
+    "category": "chargers",
+    "brand": "Anker",
+    "price": 59.99,
+    "currency": "USD",
+    "image_url": "/images/charger-anker-65w-gan.png",
+    "attributes": {
+      "brand": "Anker"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CHARGER-SAMSUNG-45W",
+    "name": "Samsung 45W Super Fast Charger",
+    "description": "Samsung 45W Super Fast Charger for daily usage with reliable quality and performance.",
+    "category": "chargers",
+    "brand": "Samsung",
+    "price": 49.99,
+    "currency": "USD",
+    "image_url": "/images/charger-samsung-45w.png",
+    "attributes": {
+      "brand": "Samsung"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "name": "Belkin 30W USB-C Fast Charger",
+    "description": "Belkin 30W USB-C Fast Charger for daily usage with reliable quality and performance.",
+    "category": "chargers",
+    "brand": "Belkin",
+    "price": 39.99,
+    "currency": "USD",
+    "image_url": "/images/charger-belkin-30w-usbc.png",
+    "attributes": {
+      "brand": "Belkin"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "name": "Spigen 70W GaN Fast Charger",
+    "description": "Spigen 70W GaN Fast Charger for daily usage with reliable quality and performance.",
+    "category": "chargers",
+    "brand": "Spigen",
+    "price": 54.99,
+    "currency": "USD",
+    "image_url": "/images/charger-spigen-70w-gan.png",
+    "attributes": {
+      "brand": "Spigen"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "name": "Spigen Rugged Armor Phone Case",
+    "description": "Spigen Rugged Armor Phone Case for daily usage with reliable quality and performance.",
+    "category": "cases",
+    "brand": "Spigen",
+    "price": 22.99,
+    "currency": "USD",
+    "image_url": "/images/case-spigen-rugged-armor.png",
+    "attributes": {
+      "brand": "Spigen"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "name": "OtterBox Defender Protective Case",
+    "description": "OtterBox Defender Protective Case for daily usage with reliable quality and performance.",
+    "category": "cases",
+    "brand": "OtterBox",
+    "price": 34.99,
+    "currency": "USD",
+    "image_url": "/images/case-otterbox-defender.png",
+    "attributes": {
+      "brand": "OtterBox"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CASE-RINGKE-FUSION-X",
+    "name": "Ringke Fusion X Phone Case",
+    "description": "Ringke Fusion X Phone Case for daily usage with reliable quality and performance.",
+    "category": "cases",
+    "brand": "Ringke",
+    "price": 19.99,
+    "currency": "USD",
+    "image_url": "/images/case-ringke-fusion-x.png",
+    "attributes": {
+      "brand": "Ringke"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "name": "Caseology Nano Pop Phone Case",
+    "description": "Caseology Nano Pop Phone Case for daily usage with reliable quality and performance.",
+    "category": "cases",
+    "brand": "Caseology",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "/images/case-caseology-nano-pop.png",
+    "attributes": {
+      "brand": "Caseology"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "name": "Samsonite XENON Laptop Backpack",
+    "description": "Samsonite XENON Laptop Backpack for daily usage with reliable quality and performance.",
+    "category": "backpacks",
+    "brand": "Samsonite",
+    "price": 89.99,
+    "currency": "USD",
+    "image_url": "/images/backpack-samsonite-xenon.png",
+    "attributes": {
+      "brand": "Samsonite"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "name": "Targus CitySmart Laptop Backpack",
+    "description": "Targus CitySmart Laptop Backpack for daily usage with reliable quality and performance.",
+    "category": "backpacks",
+    "brand": "Targus",
+    "price": 64.99,
+    "currency": "USD",
+    "image_url": "/images/backpack-targus-citysmart.png",
+    "attributes": {
+      "brand": "Targus"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "name": "Lenovo Legion Laptop Backpack",
+    "description": "Lenovo Legion Laptop Backpack for daily usage with reliable quality and performance.",
+    "category": "backpacks",
+    "brand": "Lenovo",
+    "price": 79.99,
+    "currency": "USD",
+    "image_url": "/images/backpack-lenovo-legion.png",
+    "attributes": {
+      "brand": "Lenovo"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "name": "HP Odyssey Laptop Backpack",
+    "description": "HP Odyssey Laptop Backpack for daily usage with reliable quality and performance.",
+    "category": "backpacks",
+    "brand": "HP",
+    "price": 69.99,
+    "currency": "USD",
+    "image_url": "/images/backpack-hp-odyssey.png",
+    "attributes": {
+      "brand": "HP"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "name": "Anker PowerExpand USB-C Hub",
+    "description": "Anker PowerExpand USB-C Hub for daily usage with reliable quality and performance.",
+    "category": "usb_hubs",
+    "brand": "Anker",
+    "price": 49.99,
+    "currency": "USD",
+    "image_url": "/images/hub-anker-powerexpand.png",
+    "attributes": {
+      "brand": "Anker"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "name": "Belkin USB-C Multimedia Hub",
+    "description": "Belkin USB-C Multimedia Hub for daily usage with reliable quality and performance.",
+    "category": "usb_hubs",
+    "brand": "Belkin",
+    "price": 59.99,
+    "currency": "USD",
+    "image_url": "/images/hub-belkin-multimedia.png",
+    "attributes": {
+      "brand": "Belkin"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "name": "Satechi Aluminum USB-C Hub",
+    "description": "Satechi Aluminum USB-C Hub for daily usage with reliable quality and performance.",
+    "category": "usb_hubs",
+    "brand": "Satechi",
+    "price": 69.99,
+    "currency": "USD",
+    "image_url": "/images/hub-satechi-aluminum.png",
+    "attributes": {
+      "brand": "Satechi"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "name": "HyperDrive USB-C Hub",
+    "description": "HyperDrive USB-C Hub for daily usage with reliable quality and performance.",
+    "category": "usb_hubs",
+    "brand": "HyperDrive",
+    "price": 74.99,
+    "currency": "USD",
+    "image_url": "/images/hub-hyperdrive-usbc.png",
+    "attributes": {
+      "brand": "HyperDrive"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "description": "Logitech MX Master 3S Wireless Mouse for daily usage with reliable quality and performance.",
+    "category": "wireless_mice",
+    "brand": "Logitech",
+    "price": 99.99,
+    "currency": "USD",
+    "image_url": "/images/mouse-logitech-mx-master-3s.png",
+    "attributes": {
+      "brand": "Logitech"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "name": "Razer Basilisk X Wireless Mouse",
+    "description": "Razer Basilisk X Wireless Mouse for daily usage with reliable quality and performance.",
+    "category": "wireless_mice",
+    "brand": "Razer",
+    "price": 59.99,
+    "currency": "USD",
+    "image_url": "/images/mouse-razer-basilisk-x.png",
+    "attributes": {
+      "brand": "Razer"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "MOUSE-HP-Z3700",
+    "name": "HP Z3700 Wireless Mouse",
+    "description": "HP Z3700 Wireless Mouse for daily usage with reliable quality and performance.",
+    "category": "wireless_mice",
+    "brand": "HP",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "/images/mouse-hp-z3700.png",
+    "attributes": {
+      "brand": "HP"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "MOUSE-DELL-WM126",
+    "name": "Dell WM126 Wireless Mouse",
+    "description": "Dell WM126 Wireless Mouse for daily usage with reliable quality and performance.",
+    "category": "wireless_mice",
+    "brand": "Dell",
+    "price": 21.99,
+    "currency": "USD",
+    "image_url": "/images/mouse-dell-wm126.png",
+    "attributes": {
+      "brand": "Dell"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "name": "Cooler Master NotePal X3",
+    "description": "Cooler Master NotePal X3 for daily usage with reliable quality and performance.",
+    "category": "cooling_pads",
+    "brand": "Cooler Master",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "/images/coolingpad-notepal-x3.png",
+    "attributes": {
+      "brand": "Cooler Master"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "name": "Thermaltake Massive 20 RGB Cooling Pad",
+    "description": "Thermaltake Massive 20 RGB Cooling Pad for daily usage with reliable quality and performance.",
+    "category": "cooling_pads",
+    "brand": "Thermaltake",
+    "price": 64.99,
+    "currency": "USD",
+    "image_url": "/images/coolingpad-massive-20-rgb.png",
+    "attributes": {
+      "brand": "Thermaltake"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "name": "KLIM Wind Laptop Cooling Pad",
+    "description": "KLIM Wind Laptop Cooling Pad for daily usage with reliable quality and performance.",
+    "category": "cooling_pads",
+    "brand": "KLIM",
+    "price": 39.99,
+    "currency": "USD",
+    "image_url": "/images/coolingpad-klim-wind.png",
+    "attributes": {
+      "brand": "KLIM"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "name": "Havit HV-F2056 Cooling Pad",
+    "description": "Havit HV-F2056 Cooling Pad for daily usage with reliable quality and performance.",
+    "category": "cooling_pads",
+    "brand": "Havit",
+    "price": 34.99,
+    "currency": "USD",
+    "image_url": "/images/coolingpad-havit-hvf2056.png",
+    "attributes": {
+      "brand": "Havit"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "name": "California Almonds Premium 500g",
+    "description": "California Almonds Premium 500g for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "California Almonds",
+    "price": 11.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-almonds-500g-ca.png",
+    "attributes": {
+      "brand": "California Almonds",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "name": "Happilo Natural Almonds 500g",
+    "description": "Happilo Natural Almonds 500g for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Happilo",
+    "price": 10.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-almonds-500g-happilo.png",
+    "attributes": {
+      "brand": "Happilo",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "name": "24 Mantra Organic Almonds 500g",
+    "description": "24 Mantra Organic Almonds 500g for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "24 Mantra",
+    "price": 12.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-almonds-500g-24mantra.png",
+    "attributes": {
+      "brand": "24 Mantra",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "name": "Nutraj California Almonds 500g",
+    "description": "Nutraj California Almonds 500g for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Nutraj",
+    "price": 10.49,
+    "currency": "USD",
+    "image_url": "/images/grocery-almonds-500g-nutraj.png",
+    "attributes": {
+      "brand": "Nutraj",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "name": "Coca-Cola Soft Drink 1L",
+    "description": "Coca-Cola Soft Drink 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Coca-Cola",
+    "price": 2.49,
+    "currency": "USD",
+    "image_url": "/images/grocery-softdrink-coca-cola-1l.png",
+    "attributes": {
+      "brand": "Coca-Cola",
+      "expiry_date": "2026-11-08"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-11-08"
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "name": "Pepsi Soft Drink 1L",
+    "description": "Pepsi Soft Drink 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Pepsi",
+    "price": 2.29,
+    "currency": "USD",
+    "image_url": "/images/grocery-softdrink-pepsi-1l.png",
+    "attributes": {
+      "brand": "Pepsi",
+      "expiry_date": "2026-11-08"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-11-08"
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "name": "Sprite Soft Drink 1L",
+    "description": "Sprite Soft Drink 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Sprite",
+    "price": 2.19,
+    "currency": "USD",
+    "image_url": "/images/grocery-softdrink-sprite-1l.png",
+    "attributes": {
+      "brand": "Sprite",
+      "expiry_date": "2026-11-08"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-11-08"
+  },
+  {
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "name": "Fanta Soft Drink 1L",
+    "description": "Fanta Soft Drink 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Fanta",
+    "price": 2.19,
+    "currency": "USD",
+    "image_url": "/images/grocery-softdrink-fanta-1l.png",
+    "attributes": {
+      "brand": "Fanta",
+      "expiry_date": "2026-11-08"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-11-08"
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "name": "Pintola Natural Peanut Butter 1kg",
+    "description": "Pintola Natural Peanut Butter 1kg for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Pintola",
+    "price": 8.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-peanutbutter-1kg-pintola.png",
+    "attributes": {
+      "brand": "Pintola",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "name": "MyFitness Peanut Butter 1kg",
+    "description": "MyFitness Peanut Butter 1kg for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "MyFitness",
+    "price": 9.49,
+    "currency": "USD",
+    "image_url": "/images/grocery-peanutbutter-1kg-myfitness.png",
+    "attributes": {
+      "brand": "MyFitness",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "name": "Alpino Natural Peanut Butter 1kg",
+    "description": "Alpino Natural Peanut Butter 1kg for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Alpino",
+    "price": 8.79,
+    "currency": "USD",
+    "image_url": "/images/grocery-peanutbutter-1kg-alpino.png",
+    "attributes": {
+      "brand": "Alpino",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "name": "Dr. Oetker FunFoods Peanut Butter 1kg",
+    "description": "Dr. Oetker FunFoods Peanut Butter 1kg for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "FunFoods",
+    "price": 8.29,
+    "currency": "USD",
+    "image_url": "/images/grocery-peanutbutter-1kg-funfoods.png",
+    "attributes": {
+      "brand": "FunFoods",
+      "expiry_date": "2026-09-09"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2026-09-09"
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "name": "Borges Extra Virgin Olive Oil 1L",
+    "description": "Borges Extra Virgin Olive Oil 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Borges",
+    "price": 15.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-oliveoil-1l-borges.png",
+    "attributes": {
+      "brand": "Borges",
+      "expiry_date": "2027-03-13"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2027-03-13"
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "name": "Figaro Olive Oil 1L",
+    "description": "Figaro Olive Oil 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Figaro",
+    "price": 14.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-oliveoil-1l-figaro.png",
+    "attributes": {
+      "brand": "Figaro",
+      "expiry_date": "2027-03-13"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2027-03-13"
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "name": "Del Monte Olive Oil 1L",
+    "description": "Del Monte Olive Oil 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Del Monte",
+    "price": 13.99,
+    "currency": "USD",
+    "image_url": "/images/grocery-oliveoil-1l-delmonte.png",
+    "attributes": {
+      "brand": "Del Monte",
+      "expiry_date": "2027-03-13"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2027-03-13"
+  },
+  {
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "name": "Colavita Extra Virgin Olive Oil 1L",
+    "description": "Colavita Extra Virgin Olive Oil 1L for daily usage with reliable quality and performance.",
+    "category": "grocery",
+    "brand": "Colavita",
+    "price": 16.49,
+    "currency": "USD",
+    "image_url": "/images/grocery-oliveoil-1l-colavita.png",
+    "attributes": {
+      "brand": "Colavita",
+      "expiry_date": "2027-03-13"
+    },
+    "validation_errors": [],
+    "source": "catalog",
+    "expiry_date": "2027-03-13"
+  },
+  {
+    "sku": "FASHION-BELT-LEVIS",
+    "name": "Levi's Leather Belt",
+    "description": "Levi's Leather Belt for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Levi's",
+    "price": 39.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-belt-levis.png",
+    "attributes": {
+      "brand": "Levi's"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-BELT-TOMMY",
+    "name": "Tommy Hilfiger Leather Belt",
+    "description": "Tommy Hilfiger Leather Belt for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Tommy Hilfiger",
+    "price": 45.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-belt-tommy.png",
+    "attributes": {
+      "brand": "Tommy Hilfiger"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-BELT-CALVIN",
+    "name": "Calvin Klein Leather Belt",
+    "description": "Calvin Klein Leather Belt for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Calvin Klein",
+    "price": 49.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-belt-calvin.png",
+    "attributes": {
+      "brand": "Calvin Klein"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-BELT-GUCCI",
+    "name": "Gucci Leather Belt",
+    "description": "Gucci Leather Belt for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Gucci",
+    "price": 299.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-belt-gucci.png",
+    "attributes": {
+      "brand": "Gucci"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "name": "Nike Air Zoom Running Shoes",
+    "description": "Nike Air Zoom Running Shoes for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Nike",
+    "price": 129.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-runningshoes-nike-airzoom.png",
+    "attributes": {
+      "brand": "Nike"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "name": "Adidas Ultraboost Sneakers",
+    "description": "Adidas Ultraboost Sneakers for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Adidas",
+    "price": 149.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-runningshoes-adidas-ultraboost.png",
+    "attributes": {
+      "brand": "Adidas"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "name": "Puma Velocity Nitro Running Shoes",
+    "description": "Puma Velocity Nitro Running Shoes for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Puma",
+    "price": 119.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-runningshoes-puma-velocity.png",
+    "attributes": {
+      "brand": "Puma"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "name": "New Balance Fresh Foam Sneakers",
+    "description": "New Balance Fresh Foam Sneakers for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "New Balance",
+    "price": 139.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-runningshoes-newbalance-foam.png",
+    "attributes": {
+      "brand": "New Balance"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "name": "Ray-Ban Aviator Sunglasses",
+    "description": "Ray-Ban Aviator Sunglasses for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Ray-Ban",
+    "price": 169.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-sunglasses-rayban-aviator.png",
+    "attributes": {
+      "brand": "Ray-Ban"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "name": "Gucci Square Sunglasses",
+    "description": "Gucci Square Sunglasses for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Gucci",
+    "price": 349.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-sunglasses-gucci-square.png",
+    "attributes": {
+      "brand": "Gucci"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "name": "Prada Sport Sunglasses",
+    "description": "Prada Sport Sunglasses for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Prada",
+    "price": 319.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-sunglasses-prada-sport.png",
+    "attributes": {
+      "brand": "Prada"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "name": "Oakley Holbrook Sunglasses",
+    "description": "Oakley Holbrook Sunglasses for daily usage with reliable quality and performance.",
+    "category": "fashion",
+    "brand": "Oakley",
+    "price": 159.99,
+    "currency": "USD",
+    "image_url": "/images/fashion-sunglasses-oakley-holbrook.png",
+    "attributes": {
+      "brand": "Oakley"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "name": "Apple Watch Series 9",
+    "description": "Apple Watch Series 9 for daily usage with reliable quality and performance.",
+    "category": "wearables",
+    "brand": "Apple",
+    "price": 429.99,
+    "currency": "USD",
+    "image_url": "/images/smartwatch-apple-series-9.png",
+    "attributes": {
+      "brand": "Apple"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "name": "Samsung Galaxy Watch 6",
+    "description": "Samsung Galaxy Watch 6 for daily usage with reliable quality and performance.",
+    "category": "wearables",
+    "brand": "Samsung",
+    "price": 299.99,
+    "currency": "USD",
+    "image_url": "/images/smartwatch-samsung-watch-6.png",
+    "attributes": {
+      "brand": "Samsung"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "name": "Garmin Venu 2 Smartwatch",
+    "description": "Garmin Venu 2 Smartwatch for daily usage with reliable quality and performance.",
+    "category": "wearables",
+    "brand": "Garmin",
+    "price": 349.99,
+    "currency": "USD",
+    "image_url": "/images/smartwatch-garmin-venu-2.png",
+    "attributes": {
+      "brand": "Garmin"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  },
+  {
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "name": "Fossil Gen 6 Smartwatch",
+    "description": "Fossil Gen 6 Smartwatch for daily usage with reliable quality and performance.",
+    "category": "wearables",
+    "brand": "Fossil",
+    "price": 229.99,
+    "currency": "USD",
+    "image_url": "/images/smartwatch-fossil-gen-6.png",
+    "attributes": {
+      "brand": "Fossil"
+    },
+    "validation_errors": [],
+    "source": "catalog"
+  }
+]
