@@ -1,0 +1,3362 @@
+[
+  {
+    "warehouse_code": "WH-N",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 18,
+    "max_qty": 95
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 18,
+    "max_qty": 95
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 18,
+    "max_qty": 95
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 18,
+    "max_qty": 95
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 10,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 10,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 10,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 10,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 20,
+    "max_qty": 120
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 20,
+    "max_qty": 120
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 20,
+    "max_qty": 120
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 20,
+    "max_qty": 120
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 25,
+    "max_qty": 140
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 25,
+    "max_qty": 140
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 25,
+    "max_qty": 140
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 25,
+    "max_qty": 140
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 8,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 8,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 8,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 8,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 8,
+    "max_qty": 48
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 8,
+    "max_qty": 48
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 8,
+    "max_qty": 48
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 8,
+    "max_qty": 48
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 15,
+    "max_qty": 90
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 15,
+    "max_qty": 90
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 15,
+    "max_qty": 90
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 15,
+    "max_qty": 90
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 8,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 8,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 8,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 8,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 40,
+    "max_qty": 260
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 12,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 8,
+    "max_qty": 38
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 8,
+    "max_qty": 38
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 8,
+    "max_qty": 38
+  },
+  {
+    "warehouse_code": "WH-N",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 8,
+    "max_qty": 38
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 6,
+    "max_qty": 26
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 6,
+    "max_qty": 26
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 6,
+    "max_qty": 26
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 6,
+    "max_qty": 26
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 18
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 18
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 18
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 18
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 10,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 6,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 6,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 6,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 6,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 13,
+    "max_qty": 73
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 13,
+    "max_qty": 73
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 13,
+    "max_qty": 73
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 13,
+    "max_qty": 73
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 25
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 25
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 25
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 25
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 21,
+    "max_qty": 136
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 20
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 20
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 20
+  },
+  {
+    "warehouse_code": "WH-S",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 20
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 9,
+    "max_qty": 43
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 9,
+    "max_qty": 43
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 9,
+    "max_qty": 43
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 9,
+    "max_qty": 43
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 29
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 29
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 29
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 6,
+    "max_qty": 29
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 16,
+    "max_qty": 81
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 16,
+    "max_qty": 81
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 16,
+    "max_qty": 81
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 16,
+    "max_qty": 81
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 9,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 9,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 9,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 9,
+    "max_qty": 50
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 17,
+    "max_qty": 102
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 17,
+    "max_qty": 102
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 17,
+    "max_qty": 102
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 17,
+    "max_qty": 102
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 22,
+    "max_qty": 119
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 22,
+    "max_qty": 119
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 22,
+    "max_qty": 119
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 22,
+    "max_qty": 119
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 7,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 7,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 7,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 7,
+    "max_qty": 45
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 13,
+    "max_qty": 77
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 13,
+    "max_qty": 77
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 13,
+    "max_qty": 77
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 13,
+    "max_qty": 77
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 7,
+    "max_qty": 39
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 34,
+    "max_qty": 221
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 11,
+    "max_qty": 64
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 7,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 7,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 7,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-E",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 7,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 35
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 35
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 35
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 35
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 13,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 13,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 13,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 13,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 41
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 14,
+    "max_qty": 84
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 14,
+    "max_qty": 84
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 14,
+    "max_qty": 84
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 14,
+    "max_qty": 84
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 18,
+    "max_qty": 98
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 18,
+    "max_qty": 98
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 18,
+    "max_qty": 98
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 18,
+    "max_qty": 98
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 6,
+    "max_qty": 37
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 6,
+    "max_qty": 37
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 6,
+    "max_qty": 37
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 6,
+    "max_qty": 37
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 6,
+    "max_qty": 34
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 11,
+    "max_qty": 63
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 6,
+    "max_qty": 32
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 6,
+    "max_qty": 32
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 6,
+    "max_qty": 32
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 6,
+    "max_qty": 32
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 28,
+    "max_qty": 182
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 9,
+    "max_qty": 53
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 6,
+    "max_qty": 27
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 6,
+    "max_qty": 27
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 6,
+    "max_qty": 27
+  },
+  {
+    "warehouse_code": "WH-W",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 6,
+    "max_qty": 27
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 12,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 12,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 12,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 12,
+    "max_qty": 58
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 7,
+    "max_qty": 40
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 7,
+    "max_qty": 40
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 7,
+    "max_qty": 40
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 7,
+    "max_qty": 40
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 21,
+    "max_qty": 110
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 21,
+    "max_qty": 110
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 21,
+    "max_qty": 110
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 21,
+    "max_qty": 110
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 12,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 12,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 12,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 12,
+    "max_qty": 67
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 23,
+    "max_qty": 138
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 23,
+    "max_qty": 138
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 23,
+    "max_qty": 138
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 23,
+    "max_qty": 138
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 29,
+    "max_qty": 161
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 29,
+    "max_qty": 161
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 29,
+    "max_qty": 161
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 29,
+    "max_qty": 161
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 10,
+    "max_qty": 60
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 10,
+    "max_qty": 60
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 10,
+    "max_qty": 60
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 10,
+    "max_qty": 60
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 18,
+    "max_qty": 104
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 18,
+    "max_qty": 104
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 18,
+    "max_qty": 104
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 18,
+    "max_qty": 104
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 10,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 10,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 10,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 10,
+    "max_qty": 52
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 46,
+    "max_qty": 299
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 14,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 10,
+    "max_qty": 44
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 10,
+    "max_qty": 44
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 10,
+    "max_qty": 44
+  },
+  {
+    "warehouse_code": "WH-C",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 10,
+    "max_qty": 44
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "IPHONE-14-128GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "IPHONE-14-256GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "REDMI-NOTE-13-128GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "REDMI-NOTE13-256GB",
+    "category": "phones",
+    "min_qty": 7,
+    "max_qty": 31
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "MACBOOK-AIR-M1",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 22
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "DELL-XPS-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 22
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HP-PAVILION-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 22
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "LENOVO-IDEAPAD-15",
+    "category": "laptops",
+    "min_qty": 4,
+    "max_qty": 22
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-RICE-BASMATI-5KG",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OIL-SUNFLOWER-1L",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PULSE-MOONG-1KG",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SNACKS-MIX-500G",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-TSHIRT-M-COTTON",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-JEANS-M-DENIM",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-SHOES-SPORTS-42",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-JACKET-M-WINTER",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "EARBUDS-BOULT-AIRBASS",
+    "category": "earbuds",
+    "min_qty": 12,
+    "max_qty": 59
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "EARBUDS-NOISE-VS102",
+    "category": "earbuds",
+    "min_qty": 12,
+    "max_qty": 59
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "EARBUDS-ONEPLUS-NORD",
+    "category": "earbuds",
+    "min_qty": 12,
+    "max_qty": 59
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "EARBUDS-BOAT-AIRDOPES-141",
+    "category": "earbuds",
+    "min_qty": 12,
+    "max_qty": 59
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HEADPHONES-SONY-WHCH520",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 36
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HEADPHONES-JBL-TUNE760NC",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 36
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HEADPHONES-SENNHEISER-HD350BT",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 36
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HEADPHONES-BOSE-QC45",
+    "category": "headphones",
+    "min_qty": 7,
+    "max_qty": 36
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CHARGER-ANKER-65W-GAN",
+    "category": "chargers",
+    "min_qty": 13,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CHARGER-SAMSUNG-45W",
+    "category": "chargers",
+    "min_qty": 13,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CHARGER-BELKIN-30W-USBC",
+    "category": "chargers",
+    "min_qty": 13,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CHARGER-SPIGEN-70W-GAN",
+    "category": "chargers",
+    "min_qty": 13,
+    "max_qty": 75
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CASE-SPIGEN-RUGGED-ARMOR",
+    "category": "cases",
+    "min_qty": 16,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CASE-OTTERBOX-DEFENDER",
+    "category": "cases",
+    "min_qty": 16,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CASE-RINGKE-FUSION-X",
+    "category": "cases",
+    "min_qty": 16,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "CASE-CASEOLOGY-NANO-POP",
+    "category": "cases",
+    "min_qty": 16,
+    "max_qty": 87
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "BACKPACK-SAMSONITE-XENON",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "BACKPACK-TARGUS-CITYSMART",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "BACKPACK-LENOVO-LEGION",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "BACKPACK-HP-ODYSSEY",
+    "category": "backpacks",
+    "min_qty": 5,
+    "max_qty": 33
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HUB-ANKER-POWEREXPAND",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 30
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HUB-BELKIN-MULTIMEDIA",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 30
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HUB-SATECHI-ALUMINUM",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 30
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "HUB-HYPERDRIVE-USBC",
+    "category": "usb_hubs",
+    "min_qty": 5,
+    "max_qty": 30
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "MOUSE-LOGITECH-MX-MASTER-3S",
+    "category": "wireless_mice",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "MOUSE-RAZER-BASILISK-X",
+    "category": "wireless_mice",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "MOUSE-HP-Z3700",
+    "category": "wireless_mice",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "MOUSE-DELL-WM126",
+    "category": "wireless_mice",
+    "min_qty": 10,
+    "max_qty": 56
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "COOLINGPAD-NOTEPAL-X3",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "COOLINGPAD-MASSIVE-20-RGB",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "COOLINGPAD-KLIM-WIND",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "COOLINGPAD-HAVIT-HVF2056",
+    "category": "cooling_pads",
+    "min_qty": 5,
+    "max_qty": 28
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-CA",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-HAPPILO",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-24MANTRA",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-ALMONDS-500G-NUTRAJ",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-COCA-COLA-1L",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-PEPSI-1L",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-SPRITE-1L",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-SOFTDRINK-FANTA-1L",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-PINTOLA",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-MYFITNESS",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-ALPINO",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-PEANUTBUTTER-1KG-FUNFOODS",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-BORGES",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-FIGARO",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-DELMONTE",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "GROCERY-OLIVEOIL-1L-COLAVITA",
+    "category": "grocery",
+    "min_qty": 25,
+    "max_qty": 162
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-BELT-LEVIS",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-BELT-TOMMY",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-BELT-CALVIN",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-BELT-GUCCI",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-RUNNINGSHOES-NIKE-AIRZOOM",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-RUNNINGSHOES-ADIDAS-ULTRABOOST",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-RUNNINGSHOES-PUMA-VELOCITY",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-RUNNINGSHOES-NEWBALANCE-FOAM",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-SUNGLASSES-RAYBAN-AVIATOR",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-SUNGLASSES-GUCCI-SQUARE",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-SUNGLASSES-PRADA-SPORT",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "FASHION-SUNGLASSES-OAKLEY-HOLBROOK",
+    "category": "fashion",
+    "min_qty": 8,
+    "max_qty": 47
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "SMARTWATCH-APPLE-SERIES-9",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "SMARTWATCH-SAMSUNG-WATCH-6",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "SMARTWATCH-GARMIN-VENU-2",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 24
+  },
+  {
+    "warehouse_code": "WH-NE",
+    "sku": "SMARTWATCH-FOSSIL-GEN-6",
+    "category": "wearables",
+    "min_qty": 5,
+    "max_qty": 24
+  }
+]
